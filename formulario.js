@@ -1,0 +1,3 @@
+// ─────────────────────────────────────────────────────────────
+// formulario.js — Validación del formulario de cotización
+//

@@ -1,0 +1,29 @@
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
+
+.card-img-wrapper {
+    position: relative;
+}
+
+.card-img-overlay-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.5rem 0.75rem;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.card {
+    transition: transform .2s, box-shadow .2s;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .15);
+}
