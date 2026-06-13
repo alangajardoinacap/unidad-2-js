@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nombre": "Japón",
+        "categoria": "Asia",
+        "precio": 2000,
+        "dias": 12,
+        "descripcion": "Tokio, Kioto y Osaka. Cultura y gastronomía.",
+        "imagen": "https://picsum.photos/id/1016/600/400",
+        "alt": "Monte Fuji con cerezo en flor"
+    },
+    {
+        "id":2,
+        "nombre": "Italia",
+        "categoria": "Europa",
+        "precio": 1800,
+        "dias": 10,
+        "descripcion": "Roma, Florencia y Venecia. Arte e historia.",
+        "imagen": "https://picsum.photos/id/1031/600/400",
+        "alt": "Canal de venecia"
+    }
+]
